@@ -9,3 +9,7 @@
 •	If there are two planes of the same color on top of each other than that plane cannot be killed.
 •	To win the game, your planes have to traverse around the board and come into the home lane.
 •	If a player gets 3 six’s in a row, than his/her turn is void and next players plays.
+
+##SCREENSHOTS
+![TITLE SCREEN](https://github.com/anne-ananya/LUDO.github.io/blob/main/SCREENSHOTS/LUDO1.png)
+![PLAY SCREEN](https://github.com/anne-ananya/LUDO.github.io/blob/main/SCREENSHOTS/LUDO2.png)
